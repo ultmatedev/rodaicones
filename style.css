@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?v9q374');
-  src:  url('fonts/icomoon.eot?v9q374#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?v9q374') format('truetype'),
-    url('fonts/icomoon.woff?v9q374') format('woff'),
-    url('fonts/icomoon.svg?v9q374#icomoon') format('svg');
+  src:  url('https://raw.githubusercontent.com/ultmatedev/rodaicones/master/fonts/icomoon.eot?v9q374');
+  src:  url('https://raw.githubusercontent.com/ultmatedev/rodaicones/master/fonts/icomoon.eot?v9q374#iefix') format('embedded-opentype'),
+    url('https://raw.githubusercontent.com/ultmatedev/rodaicones/master/fonts/icomoon.ttf?v9q374') format('truetype'),
+    url('https://raw.githubusercontent.com/ultmatedev/rodaicones/master/fonts/icomoon.woff?v9q374') format('woff'),
+    url('https://raw.githubusercontent.com/ultmatedev/rodaicones/master/fonts/icomoon.svg?v9q374#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
